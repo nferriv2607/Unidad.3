@@ -1,6 +1,6 @@
 
 
- function hola(){
+ function pedirDatos(){
     let nombre, edad;
     nombre = prompt("Como te llamas");
     edad=prompt("Que edad tienes");
