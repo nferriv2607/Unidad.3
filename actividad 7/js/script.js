@@ -21,3 +21,4 @@ function Comprobar() {
     else {
         document.getElementById("solucion").innerHTML = "La nota que has puesto no es válida";
     }
+}
